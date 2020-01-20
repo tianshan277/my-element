@@ -29,7 +29,7 @@
       ],
       "plugins": [
         ["module-resolver", {
-          "root": ["@taglayer/element-ui"],
+          "root": ["element-ui"],
           "alias": {
             "element-ui/src": "element-ui/lib"
           }
