@@ -192,6 +192,7 @@ const install = function(Vue, opts = {}) {
 
 };
 
+console.log('hai!');
 /* istanbul ignore if */
 // if (typeof window !== 'undefined' && window.Vue) {
 //   install(window.Vue);
