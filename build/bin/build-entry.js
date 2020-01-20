@@ -45,7 +45,7 @@ const install = function(Vue, opts = {}) {
 
 };
 
-console.log('hai!');
+console.log('Using ElementUI with Taglayer Editor Fix ...');
 
 export default {
   version: '{{version}}',
