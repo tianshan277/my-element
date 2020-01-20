@@ -1,6 +1,6 @@
 {
   "name": "@taglayer/element-ui",
-  "version": "2.13.3",
+  "version": "2.13.4",
   "description": "A Component Library for Vue.js. (Modified for Taglayer Editor)",
   "main": "lib/element-ui.common.js",
   "files": [
