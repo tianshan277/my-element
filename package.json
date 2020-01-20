@@ -1,6 +1,6 @@
 {
   "name": "@taglayer/element-ui",
-  "version": "2.13.0",
+  "version": "2.13.1",
   "description": "A Component Library for Vue.js. (Modified for Taglayer Editor)",
   "main": "lib/element-ui.common.js",
   "files": [
@@ -45,7 +45,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:kristofsw/element.git"
+    "url": "git@github.com:taglayer/element.git"
   },
   "homepage": "http://element.eleme.io",
   "keywords": [
@@ -125,7 +125,7 @@
     "optimize-css-assets-webpack-plugin": "^5.0.1",
     "postcss": "^7.0.14",
     "progress-bar-webpack-plugin": "^1.11.0",
-    "rimraf": "^2.5.4",
+    "rimraf": "^2.7.1",
     "sass-loader": "^7.1.0",
     "select-version-cli": "^0.0.2",
     "sinon": "^7.2.7",

@@ -192,14 +192,13 @@ const install = function(Vue, opts = {}) {
 
 };
 
-console.log('hai!');
 /* istanbul ignore if */
-// if (typeof window !== 'undefined' && window.Vue) {
-//   install(window.Vue);
-// }
+if (typeof window !== 'undefined' && window.Vue) {
+  install(window.Vue);
+}
 
 export default {
-  version: '2.13.0',
+  version: '2.13.1',
   locale: locale.use,
   i18n: locale.i18n,
   install,
